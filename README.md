@@ -5,4 +5,4 @@ Od 1.1.2024 byl provoz původního informační systému ARES na adrese https://
 
 Došlo nejen ke zmněně adresy, ale i výstupních dat, která jsou nyní ve formátu JSON a nikoli XML a bohužel je přepracována i struktura dat a především i názvy jednotlivých údajů.
 
-Vše je ve skriptu zohledněno. S výstupem si uý nějak jistě poradíte :)
+Vše je ve skriptu zohledněno. S výstupem si už nějak jistě poradíte :)
